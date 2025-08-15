@@ -12,6 +12,12 @@ A production-grade platform engineering starter kit for mobile teams that includ
 - 🧪 Scalable testing setup (unit + UI tests)
 - 🤖 AI features (self healing systems, tooling, monitoring)
 
+## Purpose
+
+[Mobile Platform Engineering](https://www.mobilesystemdesign.com/blog/what-is-a-mobile-platform-engineer/) is used in complex enterprise applications with a lot of engineers to streamline modular work, break down silos, and oversee architecture.
+
+Signs platform engineering is required is when features take too long, problems keep repeating among teams, or senior developers spend all their time firefighting
+
 🧱 Repo Structure
 ```
 ├── app/                     # Main app module
