@@ -22,6 +22,7 @@ Signs platform engineering is required is when features take too long, problems 
 ```
 ├── app/                     # Main app module
 ├── shared/                  # Shared libraries (networking, auth, etc.)
+├── ai/                      # AI models, config and infrastructure
 ├── ci/                      # CI/CD configs (Fastlane, GitHub Actions)
 ├── security/                # Security configs and docs
 ├── observability/           # Crashlytics, Sentry setup
