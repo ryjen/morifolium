@@ -18,7 +18,7 @@ A production-grade platform engineering starter kit for mobile teams that includ
 
 Signs platform engineering is required is when features take too long, problems keep repeating among teams, or senior developers spend all their time firefighting
 
-🧱 Repo Structure
+## Repo Structure
 ```
 ├── app/                     # Main app module
 ├── shared/                  # Shared libraries (networking, auth, etc.)
